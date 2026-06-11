@@ -12,7 +12,7 @@ namespace PokemonTraining1
             Console.WriteLine("=== Welcome to the Hoenn Safari Zone ===");
 
             // 1. 輸出與輸入
-            Console.Write("What's the trainer's name?: ");
+            Console.Write("What's the trainer's name?: \n");
             string trainerName = Console.ReadLine(); // 等待玩家輸入並存入變數
 
             // 2. 宣告變數
